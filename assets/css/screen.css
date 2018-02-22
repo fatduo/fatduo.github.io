@@ -1147,6 +1147,10 @@ body.page-template .post-title {
     border: none;
 }
 
+.post-content {
+    margin-top: 20px;
+  }
+
 /* Stop elements, such as img wider than the post content, from
    creating horizontal scroll - slight hack due to imperfections
    with browser width % calculations and rounding */
